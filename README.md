@@ -1,1 +1,1 @@
-![Workspace](images/workspace.jpg)
+![Workspace](/workspace.jpg)
